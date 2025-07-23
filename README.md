@@ -22,7 +22,7 @@ Emerging tech, sustainable innovations, and crop waste solutions
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikramjeet_singh0096)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramjeet-singh)  [![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@VikramjeetSingh)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikramjeetsinghs341@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikramjeet_singh0096)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramjeet-singh)   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikramjeetsinghs341@gmail.com)  
 
 
 # 💻 Tech Stack:
